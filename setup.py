@@ -17,5 +17,6 @@ setup(
         'Programming Language :: Python',
         'Topic :: System :: Shells',
     ],
+    scripts=['scripts/testciscript.py']
 )
 
