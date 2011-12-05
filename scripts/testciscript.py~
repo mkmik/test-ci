@@ -1,2 +1,0 @@
-import testci
-print testci.test()
