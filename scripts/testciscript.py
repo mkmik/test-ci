@@ -1,3 +1,3 @@
 #!/usr/bin/env python
-import testci
-print testci.test()
+from testci.testci import test
+print test()
